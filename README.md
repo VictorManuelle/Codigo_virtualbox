@@ -22,7 +22,7 @@ Se introduce este codigo: nano kafka_generator.py, para crear un archivo y ahi c
 
 Este codigo para el generador de datos kafka: python kafka_generator.py
 
-# Para Streaming
+# Para Streaming en una nueva consola
 
 Se introduce este codigo: nano streaming_processing.py, para crear un archivo y ahi colocar el codigo python desde la consola.
 
